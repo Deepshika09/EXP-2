@@ -49,15 +49,15 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-Tabulation for Load Test:
+Tabulation and calculation:
+![WhatsApp Image 2025-09-17 at 23 40 56_95e423bb](https://github.com/user-attachments/assets/7d74931e-dfd1-4b25-bb22-1ee7280d80cf)
+![WhatsApp Image 2025-09-17 at 23 40 57_d84f8473](https://github.com/user-attachments/assets/e0f377cd-b306-4be6-8687-b9b3f5e860c6)
+![WhatsApp Image 2025-09-17 at 23 40 59_372404ca](https://github.com/user-attachments/assets/3ad6a614-80d8-4d91-ae31-6c10f52fe347)
+![WhatsApp Image 2025-09-17 at 23 40 59_2ae6e019](https://github.com/user-attachments/assets/8953924d-cd01-42ed-a698-c10a32933c85)
+<img width="975" height="885" alt="490314420-cf6b879f-5a22-49ea-bcd8-13f1859f4d14" src="https://github.com/user-attachments/assets/feb8ed84-d206-493d-963a-94fefd68f3c7" />
+<img width="1902" height="821" alt="Screenshot 2025-09-12 133135" src="https://github.com/user-attachments/assets/914e511d-ddbe-4512-84ae-f06883e562c6" />
+<img width="1863" height="612" alt="Screenshot 2025-09-12 133153" src="https://github.com/user-attachments/assets/46dcc636-61a7-447d-b422-e72b299e1fba" />
 
-Model graph:
-Calculation: 
 
-Open circuit characteristics
-
-  
-Load Characteristics:
- 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
